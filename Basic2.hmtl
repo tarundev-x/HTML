@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Books to read</h1>
+    <h2>Books to read</h2>
+    <h3>Books to read</h3>
+    <h4>Books to read</h4>
+    <h5>Books to read</h5>
+    <h6>Books to read</h6>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum error officiis culpa totam, delectus quisquam doloribus eos quam beatae inventore? Consectetur, quas repellat cum possimus, aliquid incidunt dolorem labore at praesentium consequuntur est tempora?</p>
+    <p>There are lots of books to read</p>
+    <!-- example of absolute  -->
+    <a href="https://en.wikipedia.org/wiki/English_Wikipedia">Click here to go to that website</a>
+    <!-- example of relative link -->
+    <a href="/about.html">Go to about</a>
+</body>
+</html>
